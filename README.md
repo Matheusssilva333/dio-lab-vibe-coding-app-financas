@@ -9,3 +9,5 @@ Esse projeto tem como objetivo o desenvolvimento de um aplicativo de organizaç�
 
 - Conclusão:
   Todas essas aulas e esse projeto foram excelentes para ampliar o meu conhecimento e me ajudar na minha jornada para se tornar um Engenheiro de Machine learning.
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/833ad1be-de03-46b3-a304-4c6936a63956" />
